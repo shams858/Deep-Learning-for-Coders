@@ -21,6 +21,7 @@ sdist/
 var/
 wheels/
 data/
+hymenoptera_data/
 *.egg-info/
 .installed.cfg
 *.egg
